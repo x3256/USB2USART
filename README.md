@@ -1,2 +1,4 @@
 # USB2USART
-Simple USB to USART converter optimized for home made PCB. 
+Simple USB to USART converter.
+Designed such that it can be easily fabricated at home.
+\
